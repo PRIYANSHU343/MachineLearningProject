@@ -1,4 +1,4 @@
-# MachineLearning04
+# AI Accelerated Digital Twin Using Machine Learning
 
 This is a real-world client-facing project that consists of data analysis, visualization, machine learning, and automated pattern recognition using time series data from measurements of air quality sensors.
 
